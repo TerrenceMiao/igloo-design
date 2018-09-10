@@ -1,0 +1,11 @@
+The 10 Commandments of Good Products
+====================================
+
+The Vespa scooter is an example of how great design truly transcends time. The Vespa has been relatively unchanged in decades. The simplicity and style of it still make it a desirable item to this day.
+
+image::Vespa Legend vs Modern.png[Vespa Legend vs Modern]
+
+References
+----------
+
+- The 10 Commandments of Good Products, _https://medium.com/swlh/the-10-commandments-of-good-products-d1d0a97b30ee_
